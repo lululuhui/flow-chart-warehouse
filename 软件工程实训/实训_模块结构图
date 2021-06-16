@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T08:54:02.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="nCMvSR8O-Jnp8B_haxdt" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:58:23.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="7-HaYFMy6KRzlcmzNIlJ" version="14.7.9" type="github">
   <diagram id="3x5m2PM38zzaIcZwcVE9" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="AMarWTHp0hTt-bc0YGMT-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80.14285714285711" y="380" as="targetPoint" />
+            <mxPoint x="110" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AMarWTHp0hTt-bc0YGMT-8" value="&lt;div&gt;&lt;span&gt;购书单审核&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         </mxCell>
         <mxCell id="AMarWTHp0hTt-bc0YGMT-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="110" y="380" as="sourcePoint" />
             <mxPoint x="390" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -127,7 +127,7 @@
             <mxPoint x="610.1428571428571" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AMarWTHp0hTt-bc0YGMT-36" value="进书单开具" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-36" value="进书通知" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="410" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AMarWTHp0hTt-bc0YGMT-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-38">
