@@ -1,1 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T08:10:50.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" version="14.7.9" etag="w0bgL3602TzAlwggeUwR" type="github"><diagram id="3x5m2PM38zzaIcZwcVE9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:52:35.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="pmmWl36M31eWoZa6ybuN" version="14.7.9" type="github">
+  <diagram id="3x5m2PM38zzaIcZwcVE9" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-1" value="学校教材订购系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-2" value="销售系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-3" value="采购系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-5" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AMarWTHp0hTt-bc0YGMT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-8" value="&lt;div&gt;&lt;span&gt;购书单审核&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-11" value="&lt;div&gt;&lt;span&gt;领书信息登记&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="380.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.665;exitY=0.003;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-12" value="&lt;div&gt;&lt;span&gt;书库进出书登记&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-13" value="&lt;div&gt;&lt;span&gt;领书单开具&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470.1428571428571" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-26" value="&lt;div&gt;&lt;span&gt;缺书登记&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.1428571428571" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-28" value="书籍出库" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519.76" y="340" as="sourcePoint" />
+            <mxPoint x="519.76" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-31" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.1428571428571" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-34" value="缺书单开具" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610.1428571428571" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-36" value="进书单开具" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AMarWTHp0hTt-bc0YGMT-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680.1428571428571" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AMarWTHp0hTt-bc0YGMT-38" value="书籍入库" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="40" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
