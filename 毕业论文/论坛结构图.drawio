@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T07:38:16.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" version="17.4.0" etag="7A0wLgkL-JtsK49HclYE" type="github"><diagram id="6OVNL7MLLj3abh7c32OE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-08T11:07:10.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="d6h-5J9WNByF5LTkbL3f" version="17.4.0" type="github">
+  <diagram id="6OVNL7MLLj3abh7c32OE" name="Page-1">
+    <mxGraphModel dx="990" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMjIAKgMOnP7UoTgWlDa-1" target="kMjIAKgMOnP7UoTgWlDa-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="150" />
+              <mxPoint x="270" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMjIAKgMOnP7UoTgWlDa-1" target="kMjIAKgMOnP7UoTgWlDa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-1" value="论坛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-2" value="用户端子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-4" value="管理端子系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-5" value="帖&lt;br&gt;子&lt;br&gt;浏&lt;br&gt;览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85.5" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-7" value="搜&lt;br&gt;索&lt;br&gt;帖&lt;br&gt;子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-8" value="收&lt;br&gt;藏&lt;br&gt;回&lt;br&gt;复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-9" value="信&lt;br&gt;息&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-10" value="用&lt;br&gt;户&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-11" value="帖&lt;br&gt;子&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-13" value="话&lt;br&gt;题&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kMjIAKgMOnP7UoTgWlDa-14" value="热&lt;br&gt;门&lt;br&gt;推&lt;br&gt;荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="340" width="50" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
